@@ -1,0 +1,206 @@
+customer_id,Age,Gender,MonthlyCharges,Contract,SignupDate,PlatformStatus,TenureMonths,Churn
+CUST_1000,46.0,male,98.61,Month-to-month,2023-07-19,Active_Platform,47,0
+CUST_1001,38.0,male,91.45,Month-to-month,2023-11-24,Active_Platform,49,0
+CUST_1002,48.0,Male,54.33,One year,2023-03-17,Active_Platform,9,0
+CUST_1003,58.0,Male,36.45,Month-to-month,2023-08-19,Active_Platform,20,0
+CUST_1004,37.0,Male,61.85,Month-to-month,2023-02-01,Active_Platform,61,0
+CUST_1005,135.0,MALE,151.35,Month-to-month,2023-03-15,Active_Platform,35,0
+CUST_1006,59.0,Other,31.38,Month-to-month,2023-02-02,Active_Platform,50,0
+CUST_1007,49.0,female,48.93,Month-to-month,2023-06-17,Active_Platform,62,0
+CUST_1008,34.0,male,79.8,Two year,2023-02-06,Active_Platform,17,0
+CUST_1009,47.0,male,66.89,One year,2023-03-04,Active_Platform,3,0
+CUST_1010,34.0, Male ,64.99,Month-to-month,2023-01-08,Active_Platform,32,0
+CUST_1011,34.0,male,120.62,Month-to-month,2023-07-07,Active_Platform,13,0
+CUST_1012,43.0,Male,950.0,Month-to-month,2023-03-10,Active_Platform,68,0
+CUST_1013,17.0,female,69.64,Two year,2023-10-19,Active_Platform,14,0
+CUST_1014,19.0,Female,75.05,Month-to-month,2023-02-01,Active_Platform,11,0
+CUST_1015,33.0,male,49.88,Month-to-month,Invalid-Date-String,Active_Platform,56,0
+CUST_1016,28.0,Male,33.98,Month-to-month,2023-12-18,Active_Platform,67,0
+CUST_1017,44.0,Female,76.73,Month-to-month,2023-07-08,Active_Platform,29,0
+CUST_1018,-5.0,female,115.34,Two year,2023-01-25,Active_Platform,9,1
+CUST_1019,23.0,Female,80.11,Month-to-month,2023-07-03,Active_Platform,67,0
+CUST_1020,58.0,Male,72.25,One year,2023-08-23,Active_Platform,25,0
+CUST_1021,37.0,Other,72.07,Month-to-month,2023-11-08,Active_Platform,42,0
+CUST_1022,41.0,Other,63.54,One year,2023-06-25,Active_Platform,9,0
+CUST_1023,23.0,Female,99.59,Month-to-month,2023-05-03,Active_Platform,40,0
+CUST_1024,33.0,MALE,57.36,Month-to-month,2023-03-01,Active_Platform,25,0
+CUST_1025,41.0,Female ,36.08,One year,2023-12-15,Active_Platform,5,0
+CUST_1026,26.0,male,30.46,Ultra_Rare_VIP,2023-08-02,Active_Platform,11,0
+CUST_1027,45.0,male,71.98,Two year,2023-03-24,Active_Platform,59,0
+CUST_1028,33.0,Other,96.52,Month-to-month,2023-08-14,Active_Platform,38,0
+CUST_1029,36.0,MALE,75.94,Two year,2023-11-16,Active_Platform,5,0
+CUST_1030,33.0,Male,62.07,Month-to-month,2023-04-20,Active_Platform,48,0
+CUST_1031,62.0,male,81.46,Two year,2023-05-22,Active_Platform,18,0
+CUST_1032,40.0,Other,74.66,Month-to-month,2023-05-14,Active_Platform,70,0
+CUST_1033,27.0,,90.65,One year,2023-07-16,Active_Platform,37,0
+CUST_1034,50.0,Other,103.16,One year,2023-02-07,Active_Platform,60,0
+CUST_1035,25.0,male,46.14,One year,2023-10-07,Active_Platform,48,0
+CUST_1036,43.0,male,11.51,Month-to-month,2023-01-23,Active_Platform,28,0
+CUST_1037,16.0,Other,61.21,Month-to-month,2023-05-19,Active_Platform,69,0
+CUST_1038,24.0,Male,44.52,One year,2023-03-04,Active_Platform,40,0
+CUST_1039,42.0,Female,90.8,Month-to-month,2023-12-18,Active_Platform,45,0
+CUST_1040,49.0,male,51.89,Two year,2023-02-01,Active_Platform,62,0
+CUST_1041,42.0,Other,23.11,One year,2023-05-20,Active_Platform,58,0
+CUST_1042,39.0,Other,55.64,Month-to-month,2023-11-10,Active_Platform,67,0
+CUST_1043,36.0,MALE,32.7,One year,2023-02-03,Active_Platform,56,0
+CUST_1044,22.0,Female,109.75,Month-to-month,2023-07-23,Active_Platform,40,0
+CUST_1045,,female,81.79,One year,2023-12-20,Active_Platform,40,0
+CUST_1046,34.0,Male,86.19,One year,2023-05-05,Active_Platform,33,0
+CUST_1047,53.0,female,83.4,Month-to-month,2023-06-09,Active_Platform,6,1
+CUST_1048,44.0,Female,91.0,Month-to-month,2023-02-21,Active_Platform,19,0
+CUST_1049,19.0,Female,98.33,Two year,2023-12-03,Active_Platform,40,0
+CUST_1050,44.0,Female,56.51,Month-to-month,2023-04-26,Active_Platform,59,0
+CUST_1051,35.0,female,34.5,Month-to-month,2023-06-12,Active_Platform,59,0
+CUST_1052,32.0,Female,48.83,Month-to-month,2023-08-17,Active_Platform,48,0
+CUST_1053,47.0,Other,68.87,Month-to-month,2023-10-24,Active_Platform,41,0
+CUST_1054,52.0,female,5.89,Month-to-month,2023-11-14,Active_Platform,13,0
+CUST_1055,51.0,Female,98.57,Month-to-month,2023-07-17,Active_Platform,45,0
+CUST_1056,30.0,Other,22.58,Month-to-month,2023-02-19,Active_Platform,53,0
+CUST_1057,36.0,MALE,84.98,One year,2023-01-14,Active_Platform,42,0
+CUST_1058,44.0,Female,65.8,Month-to-month,2023-09-08,Active_Platform,63,0
+CUST_1059,52.0,female,77.13,Month-to-month,2023-02-13,Active_Platform,27,0
+CUST_1060,34.0,male,58.2,Month-to-month,2023-09-07,Active_Platform,38,0
+CUST_1061,38.0,Female,75.43,Month-to-month,2023-09-22,Active_Platform,60,0
+CUST_1062,27.0,male,58.2,Month-to-month,2023-06-11,Active_Platform,7,0
+CUST_1063,26.0,Other,56.1,One year,2023-04-26,Active_Platform,5,0
+CUST_1064,50.0,MALE,47.57,One year,2023-10-13,Active_Platform,45,0
+CUST_1065,56.0,Male,108.15,Month-to-month,2023-02-23,Active_Platform,58,0
+CUST_1066,39.0,MALE,79.17,Two year,2023-05-11,Active_Platform,31,0
+CUST_1067,52.0,Female,75.24,One year,2023-06-18,Active_Platform,23,0
+CUST_1068,44.0,male,48.11,Month-to-month,2023-05-10,Active_Platform,42,0
+CUST_1069,32.0,male,64.13,Two year,2023-04-09,Active_Platform,10,0
+CUST_1070,44.0,female,45.32,Ultra_Rare_VIP,2023-06-02,Active_Platform,32,0
+CUST_1071,58.0,male,57.72,Month-to-month,2023-01-05,Active_Platform,53,0
+CUST_1072,40.0,female,39.77,Month-to-month,2023-09-06,Active_Platform,30,0
+CUST_1073,59.0,Other,109.73,Two year,2023-10-12,Active_Platform,39,0
+CUST_1074,9.0,Male,51.08,One year,2023-07-21,Active_Platform,31,0
+CUST_1075,50.0,Female,48.12,Month-to-month,2023-10-22,Active_Platform,2,0
+CUST_1076,41.0,female,36.86,One year,2023-05-27,Active_Platform,12,0
+CUST_1077,36.0,Male,,One year,2023-09-06,Active_Platform,39,0
+CUST_1078,41.0,male,57.63,One year,2023-11-08,Active_Platform,66,0
+CUST_1079,16.0,male,68.76,One year,2023-02-12,Active_Platform,13,0
+CUST_1080,37.0,Male,53.87,One year,2023-09-21,Active_Platform,46,0
+CUST_1081,44.0,male,29.98,Month-to-month,2023-07-10,Active_Platform,27,0
+CUST_1082,58.0,Other,32.14,Month-to-month,2023-01-26,Active_Platform,17,0
+CUST_1083,34.0,Other,86.99,One year,2023-05-26,Active_Platform,60,0
+CUST_1084,30.0,Male,66.93,Two year,2023-02-22,Active_Platform,64,0
+CUST_1085,34.0,female,86.22,Month-to-month,2023-11-01,Active_Platform,35,0
+CUST_1086,51.0,female,89.51,Month-to-month,2023-03-21,Active_Platform,70,0
+CUST_1087,44.0,Male,73.78,One year,2023-04-19,Active_Platform,30,0
+CUST_1088,,female,39.21,Month-to-month,2023-10-21,Active_Platform,71,0
+CUST_1089,46.0,female,74.74,One year,2023-11-08,Active_Platform,63,0
+CUST_1090,41.0,Other,104.99,Two year,2023-11-04,Active_Platform,28,0
+CUST_1091,52.0,female,58.81,One year,2023-01-27,Active_Platform,60,0
+CUST_1092,32.0,MALE,78.52,Month-to-month,2023-07-08,Active_Platform,37,0
+CUST_1093,36.0,Female,69.66,Month-to-month,2023-03-22,Active_Platform,22,0
+CUST_1094,35.0,male,104.31,Month-to-month,2023-02-23,Active_Platform,68,0
+CUST_1095,22.0,MALE,53.06,Month-to-month,2023-08-22,Active_Platform,20,0
+CUST_1096,44.0,female,98.84,Month-to-month,2023-06-05,Active_Platform,68,0
+CUST_1097,43.0,Other,60.62,Month-to-month,2023-08-01,Active_Platform,64,0
+CUST_1098,40.0,Male,52.65,Month-to-month,2023-10-04,Active_Platform,17,0
+CUST_1099,37.0,female,72.75,Month-to-month,2023-04-19,Active_Platform,12,0
+CUST_1100,23.0,Other,78.56,Month-to-month,2023-03-20,Active_Platform,22,0
+CUST_1101,35.0,Female,117.79,Month-to-month,2023-11-17,Active_Platform,17,0
+CUST_1102,36.0,female,77.99,Month-to-month,2023-11-13,Active_Platform,10,0
+CUST_1103,30.0,Male,74.83,One year,2023-11-02,Active_Platform,65,0
+CUST_1104,38.0,Other,109.9,One year,2023-09-26,Active_Platform,22,0
+CUST_1105,45.0,Other,85.03,Month-to-month,2023-02-21,Active_Platform,50,0
+CUST_1106,63.0,Other,53.89,Two year,2023-09-09,Active_Platform,14,0
+CUST_1107,42.0,Female,103.9,Month-to-month,2023-08-17,Active_Platform,64,0
+CUST_1108,43.0,female,51.51,One year,2023-01-25,Active_Platform,47,0
+CUST_1109,39.0,Female,53.77,Month-to-month,2023-11-08,Active_Platform,29,0
+CUST_1110,17.0,male,48.79,Ultra_Rare_VIP,2023-10-25,Active_Platform,36,0
+CUST_1111,40.0,male,46.59,One year,2023-07-03,Active_Platform,52,0
+CUST_1112,41.0,female,78.33,One year,2023-03-18,Active_Platform,7,0
+CUST_1113,70.0,Female,63.55,One year,2023-05-12,Active_Platform,29,0
+CUST_1114,38.0,Male,-16.95,Month-to-month,2023-12-19,Active_Platform,11,0
+CUST_1115,44.0,Other,63.29,Month-to-month,2023-06-02,Active_Platform,33,0
+CUST_1116,40.0,Other,57.05,One year,2023-12-19,Active_Platform,6,0
+CUST_1117,26.0,female,92.32,Month-to-month,2023-05-12,Active_Platform,32,0
+CUST_1118,54.0,male,55.92,One year,2023-11-27,Active_Platform,51,0
+CUST_1119,49.0,male,133.48,Month-to-month,2023-01-17,Active_Platform,58,0
+CUST_1120,49.0,Other,104.92,Month-to-month,2023-10-25,Active_Platform,26,0
+CUST_1121,29.0,female,60.25,Month-to-month,2023-07-17,Active_Platform,46,0
+CUST_1122,57.0,Female,98.74,Month-to-month,2023-12-16,Active_Platform,29,0
+CUST_1123,23.0,male,83.13,One year,2023-08-19,Active_Platform,4,1
+CUST_1124,47.0,Female,75.84,Month-to-month,2023-08-21,Active_Platform,13,0
+CUST_1125,66.0,male,90.07,Month-to-month,2023-01-23,Active_Platform,39,0
+CUST_1126,28.0,male,71.35,Month-to-month,2023-05-22,Active_Platform,15,0
+CUST_1127,33.0,MALE,76.01,Month-to-month,2023-06-08,Active_Platform,29,0
+CUST_1128,41.0,male,90.58,One year,2023-09-18,Active_Platform,29,0
+CUST_1129,34.0,Male,121.31,Month-to-month,2023-09-12,Active_Platform,32,0
+CUST_1130,21.0,female,76.28,Month-to-month,2023-11-26,Active_Platform,2,0
+CUST_1131,41.0,female,58.66,Month-to-month,2023-09-13,Active_Platform,47,0
+CUST_1132,27.0,Female,19.27,One year,2023-10-15,Active_Platform,22,0
+CUST_1133,46.0,male,119.03,Month-to-month,2023-10-16,Active_Platform,27,0
+CUST_1134,29.0,Male,63.42,One year,2023-07-17,Active_Platform,67,0
+CUST_1135,59.0,Female,83.37,Two year,2023-07-26,Active_Platform,56,0
+CUST_1136,31.0,MALE,117.65,Month-to-month,2023-05-22,Active_Platform,21,0
+CUST_1137,36.0,Female,75.69,Month-to-month,2023-10-07,Active_Platform,47,0
+CUST_1138,50.0,Female,65.13,Month-to-month,2023-05-07,Active_Platform,59,0
+CUST_1139,25.0,male,105.49,Month-to-month,2023-09-19,Active_Platform,6,1
+CUST_1140,43.0,MALE,81.52,One year,2023-08-18,Active_Platform,19,0
+CUST_1141,56.0,Female,84.65,Two year,2023-11-23,Active_Platform,57,0
+CUST_1142,21.0,Male,31.92,Month-to-month,2023-02-20,Active_Platform,69,0
+CUST_1143,42.0,Male,100.15,Month-to-month,2023-07-03,Active_Platform,3,1
+CUST_1144,43.0,female,79.39,Month-to-month,2023-02-27,Active_Platform,1,0
+CUST_1145,49.0,MALE,35.71,One year,2023-10-07,Active_Platform,58,0
+CUST_1146,25.0,MALE,82.13,Month-to-month,2023-01-14,Active_Platform,38,0
+CUST_1147,24.0,female,18.44,Month-to-month,2023-08-03,Active_Platform,15,0
+CUST_1148,46.0,Female,128.55,Two year,2023-12-13,Active_Platform,34,0
+CUST_1149,44.0,MALE,42.45,One year,2023-02-03,Active_Platform,61,0
+CUST_1150,43.0,Male,110.29,Month-to-month,2023-05-11,Active_Platform,35,0
+CUST_1151,44.0,Male,49.68,One year,2023-08-26,Active_Platform,64,0
+CUST_1152,32.0,male,84.01,One year,2023-07-23,Active_Platform,25,0
+CUST_1153,43.0,MALE,47.2,Month-to-month,2023-12-07,Active_Platform,24,0
+CUST_1154,44.0,Female,94.93,Month-to-month,2023-08-17,Active_Platform,12,0
+CUST_1155,31.0,female,64.12,Month-to-month,2023-04-22,Active_Platform,18,0
+CUST_1156,62.0,female,81.69,Month-to-month,2023-09-13,Active_Platform,15,0
+CUST_1157,46.0,Female,70.38,One year,2023-02-01,Active_Platform,27,0
+CUST_1158,26.0,Other,35.86,Two year,2023-10-12,Active_Platform,60,0
+CUST_1159,48.0,male,82.6,Month-to-month,2023-02-23,Active_Platform,46,0
+CUST_1160,28.0,female,57.42,Month-to-month,2023-03-10,Active_Platform,17,0
+CUST_1161,49.0,MALE,96.13,Month-to-month,2023-02-27,Active_Platform,53,0
+CUST_1162,54.0,male,64.1,Month-to-month,2023-07-13,Active_Platform,8,0
+CUST_1163,30.0,MALE,68.08,One year,2023-02-03,Active_Platform,27,0
+CUST_1164,52.0,Male,112.07,Month-to-month,2023-11-07,Active_Platform,46,0
+CUST_1165,45.0,male,129.54,Month-to-month,2023-04-17,Active_Platform,50,0
+CUST_1166,50.0,female,89.65,Month-to-month,2023-05-12,Active_Platform,71,0
+CUST_1167,63.0,male,62.82,One year,2023-09-16,Active_Platform,3,0
+CUST_1168,37.0,male,60.63,Month-to-month,2023-08-12,Active_Platform,64,0
+CUST_1169,31.0,male,49.53,One year,2023-09-10,Active_Platform,44,0
+CUST_1170,29.0,Other,54.37,Month-to-month,2023-09-07,Active_Platform,53,0
+CUST_1171,30.0,male,63.16,One year,2023-04-05,Active_Platform,24,0
+CUST_1172,39.0,MALE,119.11,One year,2023-01-17,Active_Platform,60,0
+CUST_1173,44.0,Male,65.07,Month-to-month,2023-03-13,Active_Platform,3,0
+CUST_1174,43.0,Female,39.35,Month-to-month,2023-08-18,Active_Platform,20,0
+CUST_1175,50.0,male,71.04,Two year,2023-04-18,Active_Platform,46,0
+CUST_1176,40.0,female,74.45,Two year,2023-05-25,Active_Platform,15,0
+CUST_1177,57.0,male,70.89,Month-to-month,2023-01-21,Active_Platform,25,0
+CUST_1178,37.0,female,89.99,Month-to-month,2023-09-15,Active_Platform,71,0
+CUST_1179,73.0,MALE,71.73,Two year,2023-01-25,Active_Platform,17,0
+CUST_1180,48.0,female,89.22,Month-to-month,2023-08-04,Active_Platform,9,1
+CUST_1181,30.0,Female,50.49,Month-to-month,2023-12-27,Active_Platform,38,0
+CUST_1182,27.0,Male,114.52,Two year,2023-10-05,Active_Platform,48,0
+CUST_1183,46.0,female,76.31,Month-to-month,2023-05-11,Active_Platform,60,0
+CUST_1184,37.0,female,80.01,Month-to-month,2023-12-06,Active_Platform,63,0
+CUST_1185,49.0,Male,50.39,Month-to-month,2023-07-24,Active_Platform,2,0
+CUST_1186,46.0,Female,81.8,Month-to-month,2023-08-11,Active_Platform,11,1
+CUST_1187,39.0,male,86.28,Month-to-month,2023-02-25,Active_Platform,64,0
+CUST_1188,30.0,female,40.76,One year,2023-07-20,Active_Platform,21,0
+CUST_1189,22.0,Male,28.52,Month-to-month,2023-04-27,Active_Platform,18,0
+CUST_1190,35.0,MALE,77.34,Month-to-month,2023-08-20,Active_Platform,64,0
+CUST_1191,50.0,Male,57.78,Month-to-month,2023-06-21,Active_Platform,38,0
+CUST_1192,43.0,MALE,76.5,Month-to-month,2023-03-13,Active_Platform,32,0
+CUST_1193,25.0,Female,37.72,Two year,2023-10-11,Active_Platform,11,0
+CUST_1194,42.0,male,30.99,Month-to-month,2023-02-25,Active_Platform,45,0
+CUST_1195,45.0,Male,75.17,Month-to-month,2023-10-09,Active_Platform,33,0
+CUST_1196,29.0,Other,61.26,Two year,2023-01-26,Active_Platform,41,0
+CUST_1197,42.0,female,17.23,Month-to-month,2023-03-24,Active_Platform,8,0
+CUST_1198,41.0,Female,103.58,Month-to-month,2023-06-05,Active_Platform,11,1
+CUST_1199,26.0,Male,37.31,Month-to-month,2023-05-22,Active_Platform,51,0
+CUST_1000,46.0,male,98.61,Month-to-month,2023-07-19,Active_Platform,47,0
+CUST_1001,38.0,male,91.45,Month-to-month,2023-11-24,Active_Platform,49,0
+CUST_1002,48.0,Male,54.33,One year,2023-03-17,Active_Platform,9,0
+CUST_1003,58.0,Male,36.45,Month-to-month,2023-08-19,Active_Platform,20,0
+CUST_1004,37.0,Male,61.85,Month-to-month,2023-02-01,Active_Platform,61,0

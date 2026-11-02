@@ -1,0 +1,35 @@
+"""Core 'Why Did This Happen?' investigation engine package."""
+
+from modules.root_cause import *
+
+__all__ = [
+    "InvestigationMetadata",
+    "InvestigationHistory",
+    "compute_dataset_fingerprint",
+    "check_dataset_staleness",
+    "OutcomeDefinition",
+    "RootCauseCandidate",
+    "extract_outcome_definition",
+    "generate_root_cause_candidates",
+    "CandidateEvidence",
+    "EvidenceCollector",
+    "NormalizedEvidenceScores",
+    "EvidenceNormalizer",
+    "CandidateScoreDetail",
+    "EvidenceScoringConfig",
+    "EvidenceScoringEngine",
+    "RankedRootCauseItem",
+    "RootCauseRankingResult",
+    "RootCauseRanker",
+    "SegmentContributionItem",
+    "SegmentAnalysisResult",
+    "analyze_feature_segment_contributions",
+    "CombinedFactorItem",
+    "InteractionAnalysisResult",
+    "analyze_feature_interactions",
+    "InvestigationSummaryReport",
+    "generate_investigation_summary",
+    "InvestigationExporter",
+    "RootCauseInvestigationManager",
+    "ActiveInvestigationPackage",
+]
