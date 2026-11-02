@@ -47,7 +47,7 @@ git commit -m "feat: complete AI Why Did This Happen Analyzer with Render and Ve
 
 # 4. Link your remote GitHub repository (replace with your repo URL)
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/ai-why-did-this-happen-analyzer.git
+git remote add origin https://github.com/nithinkumarreddy1634/AI-Why-Did-This-Happen-Analyzer.git
 
 # 5. Push to GitHub
 git push -u origin main
