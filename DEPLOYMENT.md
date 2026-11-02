@@ -166,3 +166,4 @@ Once deployed, verify your instances:
 
 3. **Full Application**:
    Navigate to your Render or Vercel URL in your browser to access the interactive 10-stage root cause investigation engine.
+
